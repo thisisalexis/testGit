@@ -1,1 +1,2 @@
 Primer archivo
+verga, esto se está complicando con lod el merge. Edité este archivo en la rama hotfix, y ahora lo edito en master también.
